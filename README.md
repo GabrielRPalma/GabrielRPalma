@@ -26,6 +26,7 @@
  <p align="left">
    <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.svg" alt="vuejs" width="40" height="40"/> </a> 
    <a href="https://laravel.com" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> 
+   <a href="https://www.djangoproject.com" target="_blank"> <img src="https://static.djangoproject.com/img/logo-django.90b49074bac7.png" alt="django" width="40" height="40"/> </a> 
  </p>
 
  <h3 align="center">Connect with me:</h3>
