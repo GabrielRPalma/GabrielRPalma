@@ -20,7 +20,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRPalma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRPalma&layout=compact&langs_count=10&theme=dracula"/>
 </div>
+ 
+ <br>
+<h3 align="left">Languages and Tools:</h3>
+ <p align="left">
+   <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.svg" alt="vuejs" width="40" height="40"/> </a> 
+   <a href="https://laravel.com" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> 
+ </p>
 
+ <h3 align="center">Connect with me:</h3>
  <div> 
   <!--<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
   <a href="https://www.instagram.com/gabriel.r.palma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
