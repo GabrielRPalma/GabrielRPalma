@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=GabrielRPalma&label=Profile%20views&color=0e75b6&style=flat" alt="Gabriel" /> </p>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gabriel Rodrigues Palma</h1>
 
 <!--
 **GabrielRPalma/GabrielRPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
