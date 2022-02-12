@@ -24,7 +24,7 @@
  <br>
 <h3 align="left">Languages and Tools:</h3>
  <p align="left">
-   <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.svg" alt="vuejs" width="40" height="40"/> </a> 
+   <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/logo.svg" alt="vuejs" width="40" height="40"/> </a> 
    <a href="https://laravel.com" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> 
    <a href="https://www.djangoproject.com" target="_blank"> <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" alt="django" width="40" height="40"/> </a>
    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
