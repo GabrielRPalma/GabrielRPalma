@@ -25,7 +25,7 @@
   
 ##
   
-<h3 align="center">Framwroks and languages</h3>
+<h3 align="center">Frameworks and languages</h3>
  <div style="display: inline_block"><br>
    <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align = "center" alt="Gabriel-R" height="30" width="40" src="https://www.r-project.org/Rlogo.png"> 
