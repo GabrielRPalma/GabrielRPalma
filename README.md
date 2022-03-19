@@ -22,7 +22,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRPalma&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRPalma&layout=compact&langs_count=10&theme=dark"/>
 </div>
+  
 ##
+  
 <h3 align="center">Framwroks and languages</h3>
  <div style="display: inline_block"><br>
    <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
