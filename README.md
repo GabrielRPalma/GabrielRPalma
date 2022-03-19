@@ -37,6 +37,7 @@
   <img align="center" alt="Gabriel-laravel" height="30" width="40" src="https://laravel.com/img/logomark.min.svg"> 
   <img align="center" alt="Gabriel-django" height="30" width="40" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png"> 
 </div>
+  
 ## 
 
  <h3 align="center">Connect with me:</h3>
@@ -44,7 +45,7 @@
   
   <a href="https://instagram.com/gabriel.r.palma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
   <a href = "mailto:gabrielpalma2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabriel-palma-6849a51b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
