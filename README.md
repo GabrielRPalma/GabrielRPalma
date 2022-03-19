@@ -1,12 +1,12 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=GabrielRPalma&label=Profile%20views&color=0e75b6&style=flat" alt="Gabriel" /> </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gabriel Rodrigues Palma, I am a Phd student in Data Science</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gabriel Rodrigues Palma</h1>
 
 <!--
 **GabrielRPalma/GabrielRPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-
-- 🔭 I’m currently working on the developmento of tools to predict insect outbreaks
+- 🎓 I'm currently a PhD Student in SFI CRT in Data Science at Maynooth University
+- 🔭 I’m currently working on the development of tools to predict insect outbreaks
 - 🌱 I’m currently learning Computer vision and deep learning
 
 <!--- 
