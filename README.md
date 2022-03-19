@@ -5,7 +5,7 @@
 <!--
 **GabrielRPalma/GabrielRPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🎓 I'm currently a PhD Student in SFI CRT in Data Science at Maynooth University
+- 🎓 I'm currently a PhD Student at <a href="https://www.data-science.ie">SFI Centre for Research Training in Foundations of Data Science</a>
 - 🔭 I’m currently working on the development of tools to predict insect outbreaks
 - 🌱 I’m currently learning Computer vision and deep learning
 
