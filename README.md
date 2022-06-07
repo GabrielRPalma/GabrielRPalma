@@ -35,7 +35,7 @@
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
    <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Gabriel-Next" height="30" width="40" src="https://nextjs.org/static/favicon/favicon-32x32.png">
+   <img align="center" alt="Gabriel-Next" height="30" width="30" src="https://nextjs.org/static/favicon/favicon-32x32.png">
   <img align="center" alt="Gabriel-laravel" height="30" width="40" src="https://laravel.com/img/logomark.min.svg"> 
   <img align="center" alt="Gabriel-django" height="30" width="30" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png"> 
   <img align="center" alt="Gabriel-keras" height="30" width="80" src="https://keras.io/img/logo-small.png"> 
