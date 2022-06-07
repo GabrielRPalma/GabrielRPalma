@@ -36,9 +36,9 @@
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
    <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gabriel-laravel" height="30" width="40" src="https://laravel.com/img/logomark.min.svg"> 
-  <img align="center" alt="Gabriel-django" height="30" width="40" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png"> 
+  <img align="center" alt="Gabriel-django" height="30" width="30" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png"> 
   <img align="center" alt="Gabriel-keras" height="30" width="80" src="https://keras.io/img/logo-small.png"> 
-  <img align="center" alt="Gabriel-tensorflow" height="30" width="32" src="https://www.gstatic.com/devrel-devsite/prod/ve4ec520df3c6e96b08203f4b6a469718dcd1daaac8e4c6cd41f91b26aa5dbbd4/tensorflow/images/favicon.png"> 
+  <img align="center" alt="Gabriel-tensorflow" height="32" width="32" src="https://www.gstatic.com/devrel-devsite/prod/ve4ec520df3c6e96b08203f4b6a469718dcd1daaac8e4c6cd41f91b26aa5dbbd4/tensorflow/images/favicon.png"> 
 </div>
   
 ## 
