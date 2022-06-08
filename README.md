@@ -7,7 +7,7 @@
 
 - 🎓 I'm currently a PhD Student at <a href="https://www.data-science.ie">SFI Centre for Research Training in Foundations of Data Science</a>
 - 🔭 I’m currently working on the development of tools to predict insect outbreaks
-- 🌱 I’m currently learning Computer Vision, Deep Learning and Time Series methods
+- 🌱 I’m currently learning Computer Vision, Deep Learning, Time Series and Deep Generative modelling methods
 
 <!--- 
 - 👯 I’m looking to collaborate on ...
